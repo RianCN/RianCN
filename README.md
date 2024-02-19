@@ -6,7 +6,7 @@
 
 
 
-![RianCN GitHub stats](https://github-readme-stats.vercel.app/api?username=RianCN&show_icons=true&theme=blue&count_private=true)
+![RianCN GitHub stats](https://github-readme-stats.vercel.app/api?username=RianCN&show_icons=true&theme=green&count_private=true)
 
 
 ## Tecnologias que eu uso no meu dia
