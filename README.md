@@ -19,6 +19,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/TypeScript-00000F?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img align="center" alt="nodejs" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white" />
 </div><br/>
 
 Apaixonado por tecnologia.
