@@ -6,7 +6,7 @@
 Welcome To My Profile! :)
 - 🌎 I am Brazilian
 - 💻 Focused on FrontEnd
-- ⚛️Studying JavaScript
+- ⚛️ Studying JavaScript
 
 ##
 
